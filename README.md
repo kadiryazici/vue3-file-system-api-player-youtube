@@ -1,5 +1,8 @@
 # pilavyer
 
+# "Youtube"daki Vue 3 + File System Api ile yapılmış oynatıcının kaynağı.
+[Video1](https://www.youtube.com/watch?v=62VJRw8zaEo)
+[Video2](https://www.youtube.com/watch?v=yamkkdpOXZ0)
 ## Project setup
 ```
 yarn install
